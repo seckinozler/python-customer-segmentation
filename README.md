@@ -36,7 +36,6 @@ Customer segmentation is a fundamental task in marketing analytics that helps bu
 ## 🗂️ Repository Structure
 - [`customer_segmentation.ipynb`](customer_segmentation.ipynb) : Jupyter Notebook containing the analysis and modeling steps
 - [`customer_segmentation.py`](customer_segmentation.py) : Python script version of the notebook for those who prefer running the analysis as a standard Python script in their local environment
-- [`ecommerce_data.csv`](ecommerce_data.csv) : Dataset file (or data access details)
 - [`README.md`](README.md) : Project description and documentation
 
 ---
