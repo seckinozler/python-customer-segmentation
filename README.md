@@ -1,4 +1,4 @@
-# 📊 Customer Segmentation using K-Means Clustering (Python)
+# 📊 Customer Segmentation using K-Means Clustering | (Python)
 
 This project performs customer segmentation analysis on an E-Commerce dataset using K-Means clustering. The goal is to identify distinct customer groups based on their purchase behavior to help businesses design targeted marketing and retention strategies.
 
